@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <ctime>
 #include <iomanip>    
-#include <new>
 
 int q = 0, N = 0;
 void Array();
